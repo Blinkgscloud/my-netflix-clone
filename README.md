@@ -43,6 +43,8 @@
   <p align="center">Grid Genre Page</p>
   <img src="./public/assets/watch.png" alt="Logo" width="100%" height="100%">
   <p align="center">Watch Page with customer contol bar</p>
+  <video src="./public/assets/Netflix video.mp4" width="100%" height="auto" controls></video>
+  <p align="center">Sample Video</p>
 </div>
 
 ## Prerequests
